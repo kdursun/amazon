@@ -70,7 +70,7 @@ function App() {
             : 'd-flex flex-column site-container'
         }
       >
-        <ToastContainer position="bottom-center" limit={1} />
+        <ToastContainer position="top-right" limit={1} />
         <header>
           <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
